@@ -318,6 +318,9 @@ profile-photo .img{
   font-size: 16px;
   text-align: justify;
 }
+.education:hover{
+  border-color: #fed700;
+}
 
 
 
