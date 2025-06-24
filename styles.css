@@ -146,9 +146,14 @@ profile-photo .img{
   color: #e5e5e5;
   font-size: 14px;
 }
-.profile-text h1{
+/* .profile-text h1{
   color: #fed700;
   font-size: 3rem; 
+} */
+ .profile-text h1 {
+  color: #fed700;
+  font-size: clamp(1.5rem, 5vw, 3rem);
+  text-align: center;
 }
 .profile-text p{
   color:#e5e5e5;
